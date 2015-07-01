@@ -26,7 +26,7 @@ p{ color: #FFF;  font-size: 1.5em;}
 </style>
 
 # Abstract
-To address methodological and theoretical issues in archaeology computational (and quantitative) archaeology is commonly used. However few debates occur on the software that perpetrate the analysis, manipulate data or how this should be available. This paper addresses the need to use Free Software at a moment, where data is becoming easy available online, and tools to make reproducible research become widespread. This configuration challenges current ways of publishing quantitative research.
+To address methodological and theoretical issues in archaeology computational (and quantitative) archaeology is commonly used. However few debates occur on the software that are used to analyse or to manipulate data. The issue of software avaibility is also commonly ignored. This paper addresses the need to use Free Software at a moment, where data is becoming easy available online, and tools to make reproducible research become widespread. This configuration challenges current ways of publishing quantitative research.
 
 
 # Introduction[^PaperOrigin]
