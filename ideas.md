@@ -8,12 +8,12 @@ An unexpected or unintended outgrowth of the adoption of FOSS is the interaction
 Archaeological Science as Community Enterprise
  
 INTRODUCTION
-Good morning, my name is Néhémie, I am a PhD student in Near Eastern Archaeology at the University of Strasbourg and I am working part time at the German Archaeological Institute in Istanbul. For my PhD I analyse a district from Hattusa -- the Bronze Age Capital of the Hittite in Central Anatolia, Turkey. So far for the self-promotion. 
+Good morning, my name is Néhémie, I am a PhD student in Near Eastern Archaeology at the University of Strasbourg. I am working part time at the German Archaeological Institute in Istanbul. For my PhD I analyse a district from Hattusa -- the Bronze Age Capital of the Hittite in Central Anatolia, Turkey. So far for the self-promotion. 
 
-In my talk, I am going to explore the ways FS influences the practices of reuse and mixing of knowledge in archaeology. This general frame of reference based on practices of reusing and of mixing will provide the background to look closer at the impact of reproducibility, for which I will show some examples.
+In my talk, I am going to explore the ways FS influences the practices of reuse and mixing of knowledge in archaeology. This general frame of reference will provide the background to look closer at the impact of reproducibility, for which I will show some examples.
 
 MOTIVATION
-First of all, some words on my motivations. I am always disappointed when I talk about Free Software, because people don't understand why FS is important. In this talk, I won't give revolutionary facts, but I have tried to make apparent how FS already influences scientific research in general and in particular in archaeology. As a young scientist and PhD candidate, I need to be prepared to make a strong statement to defend my opinions and the reasons why I use Free Software for my PhD. In 2015, even if FS are well established inside and outside academia, the advantages of Free software (that is the 'free' as in 'free speech', and not the 'free' as in 'free beer') are not acknowledged. I am grateful to the organisers of this session for the opportunity to take a bigger look at this picture.
+First of all, some words on my motivations. Discussions with many colleagues brought to me the conclusion that FS and their benefits are not well understood. Even if FS is well established inside and outside academia, the advantages of Free software (that is the 'free' as in 'free speech', and not the 'free' as in 'free beer') are not acknowledged. As a young scientist and PhD candidate, I need to be prepared to make a strong statement to defend my opinions and the reasons why I use Free Software for my PhD. I am grateful to the organisers of this session for the opportunity to take a bigger look at this picture.
 
 
 SUMMARY
@@ -21,7 +21,7 @@ Let me briefly outline my talk. We will progress as follow:
     - First I will introduce the notion of Scientific Community 
     - Then I will concentrate on the similarities between Scientific Community and Free Software Community
     - In a Third point I will examine the concept of reuse, modulation and reproducibility in Archaeology
-    - Finally I will show 2 examples to illustrate the impact of the FS movement on Archaeology
+    - Finally I will show 2 examples
     - Before I recap the main arguments in a conclusion
 
 
@@ -31,7 +31,7 @@ I begin my talk by briefly outlining what is a scientific community in order to 
 
   - Science is cumulative 
 
-  Science is cumulative even if is not clear how exactly scientific knowledge accumulate. In any case it is a community endeavour. Matt Might chose to represent   human knowledge as a circle in his webcomic  "what is a PhD". New knowledge (like a PhD) should extend the boundary of knowledge.   
+  Science is cumulative even if is not clear how exactly scientific knowledge accumulates. In any case it is a community endeavour. Matt Might chose to represent   human knowledge as a circle in his webcomic  "what is a PhD". New knowledge (like a PhD) should extend the boundary of knowledge.   
   
    - Point of views
 
@@ -94,11 +94,11 @@ On top of this drawing, a representation of the current way of doing research wi
 
 New practices of publication with the appearance of new information technologies render the knowledge more dynamic (@Vinck2014). Wikipedia is the most famous example with content that can be updated, changed, deleted, copied, forked at any time by anyone. The last 10 years have seen a complete revaluation of Wikipedia at the University. 10 years ago, as I saw it in France, it was mostly rejected as "untrustable source". For example, as I started as undergraduate, professors were more or less forbidding to use Wikipedia, but some years after the same professors explained how to use it scientifically, and some years after they started to contribute to Wikipedia. 
 
-Wikipedia reveals how complex the system of evaluation of knowledge is. FS show how this system of evaluation is now challenged. Even if there is a growing discussion on dynamic publication there are still few examples of workflow in academia.  However some model have been proposed, like the "Push and Publish" workflow proposed by Eric Kansa (@Kansa2014).
+Wikipedia reveals how complex the system of evaluation of knowledge is. FS shows how this system of evaluation is now challenged. Even if there is a growing discussion on dynamic publication there are still few examples of workflow in academia.  However some model have been proposed, like the "Push and Publish" workflow proposed by Eric Kansa (@Kansa2014).
 
 FS asks how authority is established and question the finality of publication. Contents in constant dynamic, the biggest strength in FS, gives the opportunity to better challenge the stability of science. Most importantly, if the focus is not only on the results (stable knowledge), then FS moves the attention to how evidences are established and focuses consequently on the workflow. 
 
-Here is the point where, I will turn back to archaeology: I tackled about FS to see how it influenced science making, to expose precisely how FS enlarges the attention not only on the results but on the 'how to'. FS is the only way to reconcile the process of making science with the results. It's with this sense in mind, that I will look at reproducibility in archaeology.
+Here is the point where, I will turn back to archaeology: I tackled about FS to see how it influenced science making, to expose precisely how FS attracts the attention not only on the results but on the 'how to'. FS is the only way to reconcile the process of making science with the results. It's with this sense in mind, that I will look at reproducibility in archaeology.
 
 
 
@@ -110,7 +110,7 @@ Reproducibility allows anyone to start from the same data, check all the process
 
 Code is necessary to critic, explore and reuse the work (scrutinise). <!-- The question I ask is: Can we go so far as to ask if, that is misconduct, not to provide (free) code? And that means to provide the code not only on request but that should be mandatory?  -->
 
-Reproducibility is one of the key aspect that challenge science and I will now expose the benefits of reproducibility for Archaeology.  Besides  to  be a better practice of science and with a huge potential for empirical research especially in Archaeology, reproducibility is important for:
+Reproducibility is one of the key aspect that challenge science and I will now expose the benefits for Archaeology.  Besides  to  be a better practice of science and with a huge potential for empirical research, especially in Archaeology, reproducibility is important for:
 
   - First, pedagogy
 
@@ -124,7 +124,7 @@ First of all FS have a pedagogical aspect that you can not find with others soft
 
 To read the code, and more precisely to read commented code allows to learn quickly. Some says about FS "In pedagogical terms, Windows is to fish as UNIX is to fishing lessons (Kelty 2008: 132)". One of the most classical book in FS is the Lions' Commentary on UNIX 6th Edition. This a commentary of the V6 of UNIX that has been used by thousands of students to understand how UNIX works. Making Literate Programming gives the opportunity -- and I quote Donald Knuth -- to  " concentrate [...] on explaining  to *human beings* what we want a computer to do" [@Knuth1984: 97]. Literate Programming gives the opportunity to concentrate on the process.
 
-Ther followings examples for Archaeology (- Note:) I speak mostly of R because it's one of the software I know the best:
+The followings examples for Archaeology (- Note:) I speak mostly of R because it's one of the software I know the best:
 
     - David L. Carlson: An R Companion to Quantifying Archaeology by Stephen Shennan. 
        It's a comment with code of the work of Shennan that make easier to access the knowledge of Shennan. Most importantly it allows then to modulate the code to use it quickly for your own research question
